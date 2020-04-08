@@ -1,5 +1,5 @@
 {
-    "name": "stratevroman/Polygon",
+    "name": "stratevroman/polygon",
     "description": "Polygon perimeter and point distance calculations",
     "type": "library",
     "keywords": ["polygon", "perimeter"],
