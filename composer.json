@@ -1,0 +1,16 @@
+{
+    "name": "stratevroman/Polygon",
+    "description": "Polygon perimeter and point distance calculations",
+    "type": "library",
+    "keywords": ["polygon", "perimeter"],
+    "homepage": "https://github.com/stratevroman/",
+    "authors": [
+        {
+            "name": "Stratev Roman",
+            "email": "stratev.roman@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    }
+}
