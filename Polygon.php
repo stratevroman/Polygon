@@ -79,11 +79,4 @@ class Polygon
 set_exception_handler(function (Exception $exception) {
     echo $exception->getMessage(), "\n";
 });
-$points = [
-    [0,1],
-    [12,2],
-    [13,99]
-];
-$polygon = new Polygon($points);
-echo $polygon->getPerimeter();
 
